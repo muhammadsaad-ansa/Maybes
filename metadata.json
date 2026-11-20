@@ -1,0 +1,6 @@
+{
+  "name": "MYBASE PRO",
+  "description": "Personal backend management platform inspired by Supabase with database, table editor, SQL editor, auth, storage, API manager, and project settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
